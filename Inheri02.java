@@ -37,6 +37,7 @@ public class Inheri01 {
 		// TODO Auto-generated method stub
 		
 		C cc = new C();
+		System.out.println("Sum of two number x & y :"+(x+y));
 		
 	
 		
