@@ -38,6 +38,8 @@ public class Inheri01 {
 		
 		C cc = new C();
 		System.out.println("Sum of two number x & y :"+(x+y));
+		System.out.println("Sum of two number p & q :"+(p+q));
+		System.out.println("Sum of two number z & n :"+(z+n));
 		
 	
 		
